@@ -1,0 +1,41 @@
+.calculadora{
+    background-color: rgb(67, 67, 83);
+    height: 450px;
+    width: 370px;
+    border-radius: 30px;
+    padding: 30px;
+    box-shadow: 3px 4px black;
+    margin-top: 100px;
+}
+
+#visor{
+    width: 270px;
+    font-size: large;
+    font-weight: 500;
+    color: rgb(27, 27, 27);
+}
+
+.equals{
+    height: 110px;
+    width: 83px
+}
+
+.botao{
+    height: 50px;
+    box-shadow: 2px 2px black;
+    width: 85px;
+}
+
+.two-key{
+    width: 183px;
+
+}
+
+.calc-row{
+    width: 400px;
+}
+
+.calc-row-bt{
+    width: 400px;
+    margin-top: -60px;
+}
