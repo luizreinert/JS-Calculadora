@@ -1,2 +1,1 @@
-# JS-Calculadora
-Projeto envolvendo Javascript, HTML e CSS, do curso de desenvolvimento web na UDEMY
+Projeto desenvolvido durante o curso de Desenvolvimento web completo. Calculadora feita utilizando HTML5, CSS3 e JavaScript.
